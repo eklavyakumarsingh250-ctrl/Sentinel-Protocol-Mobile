@@ -35,7 +35,6 @@ pip install -r requirements.txt
 
 # 4. Run Sentinel
 python sentinel_lite.py
-```  <-- PUT THE BACKTICKS HERE TO CLOSE THE CODE BLOCK
 
 ## 📸 Live Demo
 ![Terminal Scan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZxcnh4bHZiNzJ4bHZiNzJ4bHZiNzJ4bHZiNzJ4bHZiNzJ4bHZiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif)
