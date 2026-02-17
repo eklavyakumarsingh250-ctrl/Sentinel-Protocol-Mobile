@@ -1,0 +1,4 @@
+cd Sentinel-Protocol-Mobile
+git add requirements.txt
+git commit -m "Added dependencies"
+git push
